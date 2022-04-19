@@ -1,5 +1,5 @@
 """
-Chapter 1
+Chapter 1 - 1
 Python Advanced(2) - Python variable Scope
 Keyword - scope, global, non-local, locals, globals
 
