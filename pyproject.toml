@@ -6,6 +6,7 @@ authors = ["himanmenGit <study.himanmen@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+multipledispatch = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 
